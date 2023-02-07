@@ -12,7 +12,7 @@
 After getting these important insights,  we used the kmeans clustering algorithm for creating cluster based on the monetary, recency and frequency values.
 
 * Conclusion - Using the wlobow mwnthod, we came to know that 3 as the value of k is the best cluster distribution for our data. Here is the analysis of clusters : 
-* 
+
 1.Cluster 0 - Rare Customers, low purchase frequency and minimal spending
 
 2.Cluster 1 - Frequent Customers, high purchase frequency and highest spending
